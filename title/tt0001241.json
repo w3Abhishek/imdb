@@ -1,0 +1,32 @@
+{
+  "Title": "Hamlet",
+  "Year": "1910",
+  "Rated": "N/A",
+  "Released": "N/A",
+  "Runtime": "20 min",
+  "Genre": "Short, Drama",
+  "Director": "William Barker, Charles Raymond",
+  "Writer": "William Shakespeare, Charles Raymond",
+  "Actors": "Charles Raymond, Dorothy Fane, Constance Backner",
+  "Plot": "N/A",
+  "Language": "None",
+  "Country": "United Kingdom",
+  "Awards": "N/A",
+  "Poster": "N/A",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.9/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "4.9",
+  "imdbVotes": "17",
+  "imdbID": "tt0001241",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
