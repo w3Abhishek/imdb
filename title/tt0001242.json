@@ -1,0 +1,32 @@
+{
+  "Title": "Hamlet",
+  "Year": "1908",
+  "Rated": "N/A",
+  "Released": "01 Aug 1908",
+  "Runtime": "N/A",
+  "Genre": "Short, Drama",
+  "Director": "Henri Desfontaines",
+  "Writer": "William Shakespeare",
+  "Actors": "Jacques Gr\u00e9tillat, Colonna Romano, Claude Benedict",
+  "Plot": "Hamlet suspects his uncle has murdered his father to claim the throne of Denmark and the hand of Hamlet's mother, but the prince cannot decide whether or not he should take vengeance.",
+  "Language": "None, French",
+  "Country": "France",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmVjYmMyYjUtMWU1NC00NWUzLWI5NTgtYzhkNmQyNzNlNzczXkEyXkFqcGdeQXVyMTIyODQyNDU0._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.0",
+  "imdbVotes": "18",
+  "imdbID": "tt0001242",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
