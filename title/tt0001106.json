@@ -1,0 +1,32 @@
+{
+  "Title": "Alice's Adventures in Wonderland",
+  "Year": "1910",
+  "Rated": "N/A",
+  "Released": "09 Sep 1910",
+  "Runtime": "10 min",
+  "Genre": "Adventure, Comedy, Drama",
+  "Director": "Edwin S. Porter",
+  "Writer": "Lewis Carroll",
+  "Actors": "Gladys Hulette, Yale Boss",
+  "Plot": "Film \"Alice's Adventures in Wonderland\" based on the novel \"Alice's Adventures in Wonderland\" by Lewis Carroll.",
+  "Language": "None, English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjczZjhlNWEtZmUyNy00MzMwLWFlODQtMTgyZTVhMzU2ZjkyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "5.9",
+  "imdbVotes": "184",
+  "imdbID": "tt0001106",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
