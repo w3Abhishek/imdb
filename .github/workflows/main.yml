@@ -2,12 +2,14 @@ name: IMDb Fetcher
 
 on:
   schedule:
-    - cron: "*/1 * * * *"
+    # Run every 5 minutes
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -32,8 +34,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Set up Git identity for commits
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Push new commits to the repository
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push
